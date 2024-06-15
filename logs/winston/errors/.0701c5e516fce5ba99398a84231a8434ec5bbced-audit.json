@@ -1,0 +1,105 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/Users/Tareq/Rezaul/Softdevsol/expense-tracking/money-management/money-management-server/logs/winston/errors/.0701c5e516fce5ba99398a84231a8434ec5bbced-audit.json",
+    "files": [
+        {
+            "date": 1717115459956,
+            "name": "/Users/Tareq/Rezaul/Softdevsol/expense-tracking/money-management/money-management-server/logs/winston/errors/phu-2024-31-05-06-error.log",
+            "hash": "668a22e692f773437275818ff6d406a034f7f4e1b2a03c4c9ad7e39e8edbcdef"
+        },
+        {
+            "date": 1717117696544,
+            "name": "/Users/Tareq/Rezaul/Softdevsol/expense-tracking/money-management/money-management-server/logs/winston/errors/phu-2024-31-05-07-error.log",
+            "hash": "38dc356df3aa03cf9f0b45597a8ef60e4d6366c5304ca34ce913ff7d8e7c7a71"
+        },
+        {
+            "date": 1717121365206,
+            "name": "/Users/Tareq/Rezaul/Softdevsol/expense-tracking/money-management/money-management-server/logs/winston/errors/phu-2024-31-05-08-error.log",
+            "hash": "d1ba0fcc6e0ef53123f6d8fc78546088784a5b2e7a41a1aa1335a2662064e31c"
+        },
+        {
+            "date": 1717332682485,
+            "name": "/Users/Tareq/Rezaul/Softdevsol/expense-tracking/money-management/money-management-server/logs/winston/errors/phu-2024-02-06-18-error.log",
+            "hash": "25ac6b4aeb147a8bda248886337b7485c3c3ab2b214022da5726e27e849569a0"
+        },
+        {
+            "date": 1717333559281,
+            "name": "/Users/Tareq/Rezaul/Softdevsol/expense-tracking/money-management/money-management-server/logs/winston/errors/phu-2024-02-06-19-error.log",
+            "hash": "f22cea15edc75ef64690e49d5cce4cca9752221db0c08980dd7fd6af1c9259a0"
+        },
+        {
+            "date": 1717381086695,
+            "name": "/Users/Tareq/Rezaul/Softdevsol/expense-tracking/money-management/money-management-server/logs/winston/errors/phu-2024-03-06-08-error.log",
+            "hash": "302b8e30d7a5f9cb5240f3e534dd5d8bc2f31fad9f744f9cd2191c6341445ecf"
+        },
+        {
+            "date": 1717385894293,
+            "name": "/Users/Tareq/Rezaul/Softdevsol/expense-tracking/money-management/money-management-server/logs/winston/errors/phu-2024-03-06-09-error.log",
+            "hash": "d8da81f44ad630259c3629d862c44a9cc9c14090a6941a4802878b05aaf4abbc"
+        },
+        {
+            "date": 1717429082997,
+            "name": "/Users/Tareq/Rezaul/Softdevsol/expense-tracking/money-management/money-management-server/logs/winston/errors/phu-2024-03-06-21-error.log",
+            "hash": "7cd34bf1bed367615ad629f441246f961f4eb95ab8948e6f09c4e90b74550de0"
+        },
+        {
+            "date": 1717430804153,
+            "name": "/Users/Tareq/Rezaul/Softdevsol/expense-tracking/money-management/money-management-server/logs/winston/errors/phu-2024-03-06-22-error.log",
+            "hash": "9b18df953c07ba761a69fa9004945ec389fbf2306de9cd365bcffd90346ed85a"
+        },
+        {
+            "date": 1717551192174,
+            "name": "/Users/Tareq/Rezaul/Softdevsol/expense-tracking/money-management/money-management-server/logs/winston/errors/phu-2024-05-06-07-error.log",
+            "hash": "036504fba13ee5f813cbddc4be9fec6a4a47afff3775668f1ab655ef7a581bac"
+        },
+        {
+            "date": 1717553243101,
+            "name": "/Users/Tareq/Rezaul/Softdevsol/expense-tracking/money-management/money-management-server/logs/winston/errors/phu-2024-05-06-08-error.log",
+            "hash": "97ae41533d8a15069f8604b526758ec8c98c466de52a2bdf13261ba4b93b58c1"
+        },
+        {
+            "date": 1718071596967,
+            "name": "/Users/Tareq/Rezaul/Softdevsol/expense-tracking/money-management/money-management-server/logs/winston/errors/phu-2024-11-06-08-error.log",
+            "hash": "21dd79e2d30afb388899686765277466c5025f34bf815ca4d562434cd8753620"
+        },
+        {
+            "date": 1718115988641,
+            "name": "/Users/Tareq/Rezaul/Softdevsol/expense-tracking/money-management/money-management-server/logs/winston/errors/phu-2024-11-06-20-error.log",
+            "hash": "4d00bdd2e968abc3451a4cc45434b1aaf36d2d8bc2371b0ca9f19c5f802d17ae"
+        },
+        {
+            "date": 1718118281523,
+            "name": "/Users/Tareq/Rezaul/Softdevsol/expense-tracking/money-management/money-management-server/logs/winston/errors/phu-2024-11-06-21-error.log",
+            "hash": "64b3b37d6fc353dfeb88ba709cd1f0918edae6622d1d9352e5c83bad8f4b4666"
+        },
+        {
+            "date": 1718121625427,
+            "name": "/Users/Tareq/Rezaul/Softdevsol/expense-tracking/money-management/money-management-server/logs/winston/errors/phu-2024-11-06-22-error.log",
+            "hash": "4dc30015f8dcfbb261f3edff3e9891868abe9831bf0963022aa5f4febe9a09ec"
+        },
+        {
+            "date": 1718159317648,
+            "name": "/Users/Tareq/Rezaul/Softdevsol/expense-tracking/money-management/money-management-server/logs/winston/errors/phu-2024-12-06-08-error.log",
+            "hash": "0777436d1a1ca75be1d5aefe5b9868c86309c201c2df6c849f72ab59c53e62b7"
+        },
+        {
+            "date": 1718161211329,
+            "name": "/Users/Tareq/Rezaul/Softdevsol/expense-tracking/money-management/money-management-server/logs/winston/errors/phu-2024-12-06-09-error.log",
+            "hash": "ea2175bf6784c624f173ed325c4f866564927be6e2fa61ea58f07a92107637e7"
+        },
+        {
+            "date": 1718286079034,
+            "name": "/Users/Tareq/Rezaul/Softdevsol/expense-tracking/money-management/money-management-server/logs/winston/errors/phu-2024-13-06-19-error.log",
+            "hash": "e61c3a190d0343b2ebdf7cfdbc0ae7a371d72a510af9dd8fcf2824954e9e2e88"
+        },
+        {
+            "date": 1718288838821,
+            "name": "/Users/Tareq/Rezaul/Softdevsol/expense-tracking/money-management/money-management-server/logs/winston/errors/phu-2024-13-06-20-error.log",
+            "hash": "45254b8c705544bacbb957b1bb81f94c67e34b0cb8c80dadf2cf5c320e8d09ea"
+        }
+    ],
+    "hashType": "sha256"
+}

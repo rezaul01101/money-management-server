@@ -1,0 +1,49 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+// Looking for ways to speed up your queries, or scale easily with your serverless or edge functions?
+// Try Prisma Accelerate: https://pris.ly/cli/accelerate-init
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "mysql"
+  url      = env("DATABASE_URL")
+}
+
+model User {
+  id          Int           @id @default(autoincrement())
+  transaction Transaction[]
+  name        String
+  email       String        @unique
+  password    String
+  deletedAt   DateTime?     @map(name: "deleted_at")
+  createdAt   DateTime      @default(now()) @map(name: "created_at")
+  updatedAt   DateTime      @updatedAt @map(name: "updated_at")
+
+  @@map("users")
+}
+
+model Transaction {
+  id        Int             @id @default(autoincrement())
+  user_id   Int
+  user      User            @relation(fields: [user_id], references: [id])
+  amount    Int
+  remarks   String?
+  date      String
+  type      TransactionType
+  deletedAt DateTime?       @map(name: "deleted_at")
+  createdAt DateTime        @default(now()) @map(name: "created_at")
+  updatedAt DateTime        @updatedAt @map(name: "updated_at")
+
+  @@map("transactions")
+}
+
+enum TransactionType {
+  expense
+  income
+  saving
+  goal
+}
