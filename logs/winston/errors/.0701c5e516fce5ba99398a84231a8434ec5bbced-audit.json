@@ -6,21 +6,6 @@
     "auditLog": "/Users/Tareq/Rezaul/Softdevsol/expense-tracking/money-management/money-management-server/logs/winston/errors/.0701c5e516fce5ba99398a84231a8434ec5bbced-audit.json",
     "files": [
         {
-            "date": 1717115459956,
-            "name": "/Users/Tareq/Rezaul/Softdevsol/expense-tracking/money-management/money-management-server/logs/winston/errors/phu-2024-31-05-06-error.log",
-            "hash": "668a22e692f773437275818ff6d406a034f7f4e1b2a03c4c9ad7e39e8edbcdef"
-        },
-        {
-            "date": 1717117696544,
-            "name": "/Users/Tareq/Rezaul/Softdevsol/expense-tracking/money-management/money-management-server/logs/winston/errors/phu-2024-31-05-07-error.log",
-            "hash": "38dc356df3aa03cf9f0b45597a8ef60e4d6366c5304ca34ce913ff7d8e7c7a71"
-        },
-        {
-            "date": 1717121365206,
-            "name": "/Users/Tareq/Rezaul/Softdevsol/expense-tracking/money-management/money-management-server/logs/winston/errors/phu-2024-31-05-08-error.log",
-            "hash": "d1ba0fcc6e0ef53123f6d8fc78546088784a5b2e7a41a1aa1335a2662064e31c"
-        },
-        {
             "date": 1717332682485,
             "name": "/Users/Tareq/Rezaul/Softdevsol/expense-tracking/money-management/money-management-server/logs/winston/errors/phu-2024-02-06-18-error.log",
             "hash": "25ac6b4aeb147a8bda248886337b7485c3c3ab2b214022da5726e27e849569a0"
@@ -99,6 +84,11 @@
             "date": 1718288838821,
             "name": "/Users/Tareq/Rezaul/Softdevsol/expense-tracking/money-management/money-management-server/logs/winston/errors/phu-2024-13-06-20-error.log",
             "hash": "45254b8c705544bacbb957b1bb81f94c67e34b0cb8c80dadf2cf5c320e8d09ea"
+        },
+        {
+            "date": 1718420799559,
+            "name": "/Users/Tareq/Rezaul/Softdevsol/expense-tracking/money-management/money-management-server/logs/winston/errors/phu-2024-15-06-09-error.log",
+            "hash": "11034390ace5a6dc69541a8d11080854385cf25e3ea2846d9510f51700c55002"
         }
     ],
     "hashType": "sha256"

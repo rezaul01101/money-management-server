@@ -13,7 +13,18 @@ const users = catchAsync(async (req: Request, res: Response) => {
     data: response,
   });
 });
+const getUser = catchAsync(async (req: Request, res: Response)=>{
+  const token = req.headers.authorization as string;
+  const response = await UserService.getUserFromDB(token);
+  sendResponse(res, {
+    statusCode: 200,
+    success: true,
+    message: "User retrieved  !",
+    data: response,
+  });
+})
 
 export const userController = {
   users,
+  getUser
 };

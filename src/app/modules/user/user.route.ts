@@ -4,17 +4,7 @@ import auth from "../../middlewares/auth";
 import { userController } from "./user.controller";
 
 const router = express.Router();
-router.get(
-  "/list",
-  auth('user'),
-  userController.users
-  
-);
-// router.get(
-//   "/user/:id",
-//   auth('user'),
-//   validateRequest(AuthValidation.registerZodSchema),
-//   AuthController.registerUser
-// );
+router.get("/list", userController.users);
+router.get("/", auth("user"), userController.getUser);
 
 export const UserRoutes = router;

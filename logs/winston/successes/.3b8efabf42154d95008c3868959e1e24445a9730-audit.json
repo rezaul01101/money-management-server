@@ -6,21 +6,6 @@
     "auditLog": "/Users/Tareq/Rezaul/Softdevsol/expense-tracking/money-management/money-management-server/logs/winston/successes/.3b8efabf42154d95008c3868959e1e24445a9730-audit.json",
     "files": [
         {
-            "date": 1717115459946,
-            "name": "/Users/Tareq/Rezaul/Softdevsol/expense-tracking/money-management/money-management-server/logs/winston/successes/phu-2024-31-05-06-success.log",
-            "hash": "a26a65b9d6e88162254761de73a47c31637081fc2614d145e047cf9cadcd503c"
-        },
-        {
-            "date": 1717117696538,
-            "name": "/Users/Tareq/Rezaul/Softdevsol/expense-tracking/money-management/money-management-server/logs/winston/successes/phu-2024-31-05-07-success.log",
-            "hash": "3c64851c7b12da17657ae3ab5ae39eebef81b4f85cd246847882c24fdc31f5b1"
-        },
-        {
-            "date": 1717121365200,
-            "name": "/Users/Tareq/Rezaul/Softdevsol/expense-tracking/money-management/money-management-server/logs/winston/successes/phu-2024-31-05-08-success.log",
-            "hash": "0cf73208c8e713dc2df0eb5c9ec878065feb15a37bb5a83804a14845bed46672"
-        },
-        {
             "date": 1717332682473,
             "name": "/Users/Tareq/Rezaul/Softdevsol/expense-tracking/money-management/money-management-server/logs/winston/successes/phu-2024-02-06-18-success.log",
             "hash": "22fb729efe9695786b20a4790559a297998e044a49a8d88ac398ad43fff1b4c1"
@@ -99,6 +84,11 @@
             "date": 1718288838809,
             "name": "/Users/Tareq/Rezaul/Softdevsol/expense-tracking/money-management/money-management-server/logs/winston/successes/phu-2024-13-06-20-success.log",
             "hash": "c405626affa59ed21da4e3f30c6d409bc2af32b3beb3f6815373a53a741a8583"
+        },
+        {
+            "date": 1718420799551,
+            "name": "/Users/Tareq/Rezaul/Softdevsol/expense-tracking/money-management/money-management-server/logs/winston/successes/phu-2024-15-06-09-success.log",
+            "hash": "b4276ff32868e3a5108ecec0b96e94e884ec7e16cdd7a810eee4af71f6fb2029"
         }
     ],
     "hashType": "sha256"
