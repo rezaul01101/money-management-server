@@ -27,6 +27,8 @@ const loginUser = catchAsync(async (req: Request, res: Response)=> {
 });
 const registerUser = catchAsync(async (req: Request, res: Response) => {
   const { ...registerData } = req.body;
+  console.log(registerData);
+  
   const response = await AuthService.insertIntoDB(registerData);
   sendResponse(res, {
     statusCode: 200,
